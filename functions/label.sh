@@ -16,7 +16,9 @@ title () {
     VALUE=$1
     n=`expr ${#VALUE} + 20`
     
+    echo
     label_hood $n
     success "|         $1         |"
     label_hood $n
+    echo
 }
