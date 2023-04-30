@@ -19,3 +19,6 @@ sudo apt update
 
 # Install phpmyadmin
 . ./packages/phpmyadmin.sh
+
+# Install multitple sites
+. ./packages/multiple-sites.sh
