@@ -35,6 +35,19 @@ rsync -av "${PWD}"/* dev@<Server IP address>:~
 OR
 scp -r "${PWD}"/* dev@<Server IP address>:~
 ```
+### Final Step
+Then login to the server with your new created account (if you've created following first step). Let, you've created as same as first step. Then run the bellow command to get into the server.
+```sh
+ssh dev@<Server IP address>
+
+# OR with identity file
+ssh -i <Identity_file>.pem dev@<Server IP address>
+```
+Then after getting entered into the server, run the bellow command to start the setup action and wait for 20mins.
+```sh
+./setup.sh
+```
+**_NB: This script is tested working for Ubuntu server._**
 ## Authors
 
 _Initial development_ - **_A. M. Sadman Rafid_**
