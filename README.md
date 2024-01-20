@@ -47,7 +47,31 @@ Then after getting entered into the server, run the bellow command to start the 
 ```sh
 ./setup.sh
 ```
-**_NB: This script is tested working for Ubuntu server._**
+**_N.B.:_**
+- **This script is tested working for Ubuntu server only.**
+- **If any package is not required for your setup, remove the package file name that is included into the `setup.sh` file.**
+- **To change default settings, check `/packages` folder and change the value of necessary variables.**
+- **In case of setting up of `phpMyAdmin` some required pop up will be shown. Try to follow the bellow images where red marked selections should be selected.**
+
+#### Pop Up 1:
+![Pop Up 1](./assets/Pop%20up%201.png)
+
+#### Pop Up 2:
+![Pop Up 2](./assets/Pop%20up%202.png)
+
+#### Pop Up 3:
+![Pop Up 3](./assets/Pop%20up%203.png)
+
+#### Pop Up 4:
+![Pop Up 4](./assets/Pop%20up%204.png)
+
+#### Pop Up 5:
+![Pop Up 5](./assets/Pop%20up%205.png)
+
+### At last
+This project was developed for personal use only. So, it couldn't fullfil all of your expectations or requirements. \
+So, feal free to change as requirements and yes you can make a contribution with it.
+
 ## Authors
 
 _Initial development_ - **_A. M. Sadman Rafid_**
