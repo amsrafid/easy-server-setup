@@ -68,10 +68,6 @@ Then after getting entered into the server, run the bellow command to start the 
 #### Pop Up 5:
 ![Pop Up 5](./assets/Pop%20up%205.png)
 
-
-
-
-
 ### At last
 This project was developed for personal use only. So, it couldn't fullfil all of your expectations or requirements. \
 So, feal free to change as requirements and yes you can make a contribution with it.
