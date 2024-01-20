@@ -70,7 +70,7 @@ Then after getting entered into the server, run the bellow command to start the 
 
 ### At last
 This project was developed for personal use only. So, it couldn't fullfil all of your expectations or requirements. \
-So, feal free to change as requirements and yes you can make a contribution with it.
+So, feel free to change as requirements and yes you can make a contribution with it.
 
 ## Authors
 
